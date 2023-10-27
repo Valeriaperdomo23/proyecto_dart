@@ -7,7 +7,7 @@ mixin Challenge1 {
     if (num >= 0) {
       print("El cuadrado de ${num} es: ${cuad}.");
     } else if (num < 0) {
-      print("Número negativo.");
+      print("Número negativo. probando");
     }
   }
 }
